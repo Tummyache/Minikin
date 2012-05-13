@@ -1,0 +1,18 @@
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\bin\Debug\LevelFileGenerator.exe
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\bin\Debug\LevelFileGenerator.pdb
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.Form1.resources
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.Properties.Resources.resources
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.exe
+C:\Users\APPEK\AppData\Local\Temporary Projects\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.pdb
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.exe
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.pdb
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.Form1.resources
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\LevelFileGenerator.Properties.Resources.resources
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\bin\Debug\LevelFileGenerator.exe
+C:\Users\APPEK\Documents\Visual Studio 2010\Projects\LevelFileGenerator\LevelFileGenerator\bin\Debug\LevelFileGenerator.pdb
